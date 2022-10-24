@@ -1,2 +1,2 @@
 # java-programms
-# Snake Game files: GamePanel GameFrameSnakeGame
+# Snake Game files: GamePanel GameFrame SnakeGame
